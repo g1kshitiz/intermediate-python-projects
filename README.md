@@ -9,5 +9,5 @@ CUI implementation of the game tic tac toe against computer.
 CUI implementation of the game hangman.
 
 #### words.txt :
-collection of words (file used for getting a random word for playing the game hangman.
+collection of words (file used for getting a random word for playing the game hangman.)
 (Reference: This file was obtained from the class materials for MIT's 6.0001)
